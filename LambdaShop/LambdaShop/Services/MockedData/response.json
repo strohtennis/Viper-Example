@@ -1,0 +1,16 @@
+{
+    "items":
+    [ {
+        "name": "Mood Ring",
+        "cost": 35.99
+    },
+    {
+        "name": "Elderwand",
+        "cost": 49.99
+    },
+    {
+        "name": "BB-8 Robot",
+        "cost": 89.99
+    }]
+
+}
